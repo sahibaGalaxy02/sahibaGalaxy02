@@ -13,7 +13,8 @@ I build end-to-end solutions that work, perform, and scale.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahibaGalaxy02/sahibaGalaxy02/main/developer.gif" width="420" />
+  <img src="![web development GIF](https://github.com/user-attachments/assets/cebe582a-29b4-46bd-87a6-058a5fb3b68c)
+" width="420" />
 </p>
 
 ---
@@ -27,5 +28,6 @@ I build end-to-end solutions that work, perform, and scale.
 
 ### Animation
 ![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-th_)
+
 
 
