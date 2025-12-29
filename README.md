@@ -13,7 +13,7 @@ I build end-to-end solutions that work, perform, and scale.
 ---
 
 <p align="center">
-  <img src="![web development GIF](https://github.com/user-attachments/assets/cebe582a-29b4-46bd-87a6-058a5fb3b68c)
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN2eG9rcW5uMGV0NnE0MGNyamduczZrdXFud3ZtZmV4cjk5cXQycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif"
 " width="420" />
 </p>
 
@@ -28,6 +28,7 @@ I build end-to-end solutions that work, perform, and scale.
 
 ### Animation
 ![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-th_)
+
 
 
 
