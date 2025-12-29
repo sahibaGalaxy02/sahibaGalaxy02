@@ -13,7 +13,7 @@ I build end-to-end solutions that work, perform, and scale.
 ---
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN2eG9rcW5uMGV0NnE0MGNyamduczZrdXFud3ZtZmV4cjk5cXQycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif"
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNyczIyczJmNTRzenR3NGp2bzQ2MGx5YmZ5cDBpMjdoYnFzM2tpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
 " width="420" />
 </p>
 
