@@ -1,14 +1,17 @@
 # 👋 Hi, I'm Sahiba
 
-### 💻 Full-Stack Web Developer  
+### 💻Aspiring Full-Stack Web Developer  
 Turning ideas into powerful digital experiences 🚀
 
 ---
 
 ## 🚀 About Me
-I'm a passionate web developer helping businesses and startups craft fast, scalable,  
-and modern digital products. From clean frontend interfaces to solid backend systems —  
-I build end-to-end solutions that work, perform, and scale.
+
+I'm an MCA student at **DPGU College**, passionate about web development and building modern, user-friendly applications.  
+I enjoy working with frontend and backend technologies to create clean, efficient, and scalable solutions.
+
+I’m constantly learning new tools and frameworks, improving my problem-solving skills, and working on real-world projects to grow as a full-stack developer.  
+My goal is to build impactful digital products and start a successful career in the tech industry.
 
 ---
 
@@ -28,6 +31,7 @@ I build end-to-end solutions that work, perform, and scale.
 
 ### Animation
 ![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-th_)
+
 
 
 
