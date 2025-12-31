@@ -36,10 +36,18 @@ My goal is to build impactful digital products and start a successful career in 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/sahiba-shaikh-a4088a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![GitHub]([https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/sahibaGalaxy02](https://share.google/hltSYaZim2Th4l3oK))
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/justttt.s02?utm_source=qr&igsh=ZWFtenN0Ynh1M2l5))
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahiba shaikh)
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahibaGalaxy02)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/justttt.s02)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhsahiba0205@gmail.com)
+
 
 
 
