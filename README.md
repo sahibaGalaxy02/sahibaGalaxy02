@@ -7,7 +7,7 @@ Turning ideas into powerful digital experiences 🚀
 
 ## 🚀 About Me
 
-I'm an MCA student at **DPGU College**, passionate about web development and building modern, user-friendly applications.  
+I'm an MCA student at **DPGU **, passionate about web development and building modern, user-friendly applications.  
 I enjoy working with frontend and backend technologies to create clean, efficient, and scalable solutions.
 
 I’m constantly learning new tools and frameworks, improving my problem-solving skills, and working on real-world projects to grow as a full-stack developer.  
@@ -31,6 +31,17 @@ My goal is to build impactful digital products and start a successful career in 
 
 ### Animation
 ![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-th_)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/sahiba-shaikh-a4088a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![GitHub]([https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/sahibaGalaxy02](https://share.google/hltSYaZim2Th4l3oK))
+[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME](https://www.instagram.com/justttt.s02?utm_source=qr&igsh=ZWFtenN0Ynh1M2l5))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhsahiba0205@gmail.com)
+
+
 
 
 
