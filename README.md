@@ -34,7 +34,7 @@ My goal is to build impactful digital products and start a successful career in 
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with me
 
 ---
 
@@ -45,6 +45,7 @@ My goal is to build impactful digital products and start a successful career in 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/justttt.s02)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhsahiba0205@gmail.com)
+
 
 
 
