@@ -48,6 +48,8 @@ My goal is to build impactful digital products and start a successful career in 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhsahiba0205@gmail.com)
 
+
+
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -59,6 +61,7 @@ My goal is to build impactful digital products and start a successful career in 
 </picture>
 
 ---
+
 
 
 
