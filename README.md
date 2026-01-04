@@ -22,6 +22,8 @@ My goal is to build impactful digital products and start a successful career in 
 
 ---
 
+
+
 ## ⚙️ Tech Stack
 
 ### Frontend
@@ -45,6 +47,19 @@ My goal is to build impactful digital products and start a successful career in 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/justttt.s02)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhsahiba0205@gmail.com)
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/sahibaGalaxy02/sahibaGalaxy02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/sahibaGalaxy02/sahibaGalaxy02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+    src="https://raw.githubusercontent.com/sahibaGalaxy02/sahibaGalaxy02/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 
 
 
