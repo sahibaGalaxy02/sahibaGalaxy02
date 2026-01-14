@@ -30,7 +30,7 @@ My goal is to build impactful digital products and start a successful career in 
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-0ea5a5?style=for-the-badge&logo=tailwindcss)
-![AI](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![AI](https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=react)
 
 
 
@@ -64,6 +64,7 @@ My goal is to build impactful digital products and start a successful career in 
 </picture>
 
 ---
+
 
 
 
