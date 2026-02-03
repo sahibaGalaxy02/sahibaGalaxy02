@@ -41,7 +41,7 @@ My goal is to build impactful digital products and start a successful career in 
 ### Animation
 ![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-th_)
 
----
+--------
 
 ## 🌐 Connect with me
 
@@ -68,6 +68,7 @@ My goal is to build impactful digital products and start a successful career in 
 </picture>
 
 ---
+
 
 
 
