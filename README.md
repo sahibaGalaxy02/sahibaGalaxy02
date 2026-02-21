@@ -49,7 +49,7 @@ My goal is to build impactful digital products and start a successful career in 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahiba-shaikh-a4088a276)
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahibaGalaxy02)
+[![Leetcode](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahibaGalaxy02)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/justttt.s02)
 
@@ -68,6 +68,7 @@ My goal is to build impactful digital products and start a successful career in 
 </picture>
 
 ---
+
 
 
 
