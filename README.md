@@ -49,7 +49,7 @@ My goal is to build impactful digital products and start a successful career in 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahiba-shaikh-a4088a276)
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-111827?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/sahiba2/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-111827?style=for-the-badge&logo=Leetcode&logoColor=yellow)](https://leetcode.com/u/sahiba2/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/justttt.s02)
 
@@ -68,6 +68,7 @@ My goal is to build impactful digital products and start a successful career in 
 </picture>
 
 ---
+
 
 
 
