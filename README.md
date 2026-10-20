@@ -89,17 +89,23 @@ I love building **modern, responsive, and scalable web apps** while exploring th
 
 ## 🔥 Featured Projects
 
-<!-- Replace REPO_NAME_1 / REPO_NAME_2 with your best repos, then uncomment -->
-<!--
 <p align="center">
-  <a href="https://github.com/sahibaGalaxy02/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahibaGalaxy02&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF" />
+  <a href="https://github.com/sahibaGalaxy02/Watch-Together">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahibaGalaxy02&repo=Watch-Together&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00C6FF" />
   </a>
-  <a href="https://github.com/sahibaGalaxy02/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahibaGalaxy02&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF" />
+  <a href="https://github.com/sahibaGalaxy02/HelpCity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahibaGalaxy02&repo=HelpCity&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00C6FF" />
   </a>
 </p>
--->
+
+<p align="center">
+  <a href="https://github.com/sahibaGalaxy02/IdeaBank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahibaGalaxy02&repo=IdeaBank&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00C6FF" />
+  </a>
+  <a href="https://github.com/sahibaGalaxy02/Taskflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahibaGalaxy02&repo=Taskflow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00C6FF" />
+  </a>
+</p>
 
 ---
 
