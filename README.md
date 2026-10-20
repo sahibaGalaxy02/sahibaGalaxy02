@@ -1,19 +1,35 @@
-# 👋 Hi, I'm Sahiba Shaikh
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=200&section=header&text=Sahiba%20Shaikh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" />
 
-### 💻 Aspiring Full-Stack Web Developer & Data Enthusiast
-Turning ideas into powerful digital experiences 🚀
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Sahiba;MCA+Student+%40+DPGU,+Pune;Building+full-stack+MERN+apps+%F0%9F%9A%80;Turning+messy+data+into+insights+%F0%9F%93%8A;Always+learning,+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahibaGalaxy02&label=Profile%20Views&color=7F00FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Pune-India-00C6FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge" alt="open to opportunities" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I'm an MCA student at **Dnyan Prasad Global University (DPGU)**, Pune. Passionate about **full-stack web development** and **data-driven decision making**. 
+```js
+const sahiba = {
+  education: "MCA @ Dnyan Prasad Global University (DPGU), Pune",
+  role: "Aspiring Full-Stack Web Developer & Data Enthusiast",
+  currentlyLearning: ["Next.js", "Advanced SQL", "Power BI dashboards"],
+  loves: ["Clean UI", "Scalable apps", "Turning data into stories"],
+  funFact: "I'll happily spend an hour cleaning a messy dataset 🧹",
+  motto: "Turning ideas into powerful digital experiences 🚀"
+};
+```
 
-I love building modern, responsive, and scalable web applications while also exploring the world of data — from cleaning messy datasets to creating insightful dashboards that drive real impact.
-
-Currently strengthening my skills in both **MERN stack** development and **Data Analysis & Visualization**.
-
----
+I love building **modern, responsive, and scalable web apps** while exploring the world of **data**: from cleaning messy datasets to creating dashboards that drive real impact.
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNyczIyczJmNTRzenR3NGp2bzQ2MGx5YmZ5cDBpMjdoYnFzM2tpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
@@ -21,48 +37,102 @@ Currently strengthening my skills in both **MERN stack** development and **Data 
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table align="center">
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend & DB</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 Data & Analytics</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,postgres,powerbi,excel" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+    </td>
+  </tr>
+</table>
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-111827?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6B6B?style=for-the-badge)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahiba-shaikh-a4088a276/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahiba2/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the.saahibaaa/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhsahiba0205@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN_Stack-Full--Stack-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analysis-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FF6B6B?style=for-the-badge" />
+</p>
 
 ---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahibaGalaxy02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00C6FF&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahibaGalaxy02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahibaGalaxy02&theme=tokyonight&hide_border=true&background=0D1117&ring=7F00FF&fire=00C6FF&currStreakLabel=7F00FF" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+<!-- Replace REPO_NAME_1 / REPO_NAME_2 with your best repos, then uncomment -->
+<!--
+<p align="center">
+  <a href="https://github.com/sahibaGalaxy02/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahibaGalaxy02&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF" />
+  </a>
+  <a href="https://github.com/sahibaGalaxy02/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahibaGalaxy02&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF" />
+  </a>
+</p>
+-->
+
+---
+
+## 🎯 Currently
+
+- 🔭 Building full-stack projects with the **MERN stack**
+- 📊 Sharpening **data analysis & visualization** with Python, SQL and Power BI
+- 🧠 Practicing problem solving on **LeetCode**
+- 🤝 Open to **internships, collaborations & open-source** contributions
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahiba-shaikh-a4088a276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sahiba2/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.instagram.com/the.saahibaaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:shaikhsahiba0205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🕹️ Contribution Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahibaGalaxy02/sahibaGalaxy02/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahibaGalaxy02/sahibaGalaxy02/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sahibaGalaxy02/sahibaGalaxy02/output/pacman-contribution-graph.svg">
 </picture>
+
+<p align="center">
+  <i>⭐ Thanks for stopping by! If you like what you see, drop a star or say hi. ⭐</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=100&section=footer" />
