@@ -4,12 +4,12 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Sahiba;MCA+Student+%40+DPGU,+Pune;Building+full-stack+MERN+apps+%F0%9F%9A%80;Turning+messy+data+into+insights+%F0%9F%93%8A;Always+learning,+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&height=45&lines=Hi+there!+%F0%9F%91%8B+I'm+Sahiba;MCA+Student+%40+DPGU,+Pune;Building+full-stack+MERN+apps+%F0%9F%9A%80;Turning+messy+data+into+insights+%F0%9F%93%8A;Always+learning,+always+shipping+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahibaGalaxy02&label=Profile%20Views&color=7F00FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/sahibaGalaxy02?style=for-the-badge&logo=github&logoColor=white&color=7F00FF&label=Followers" alt="followers" />
   <img src="https://img.shields.io/badge/Pune-India-00C6FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge" alt="open to opportunities" />
 </p>
