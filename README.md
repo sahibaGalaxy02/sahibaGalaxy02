@@ -8,7 +8,7 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D782B6&center=true&vCenter=true&width=650&height=45&lines=Hi+there!+I'm+Sahiba+%F0%9F%8E%80;MCA+Student+%40+DPGU,+Pune;Building+full-stack+MERN+apps+%E2%9C%A8;Turning+messy+data+into+insights+%F0%9F%93%8A;Creating,+learning,+and+blooming+%F0%9F%8C%B7" alt="Animated introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D782B6&center=true&vCenter=true&width=650&height=45&lines=Hi+there!+I'm+Sahiba+;MCA+Student+%40+DPGU,+Pune;Building+full-stack+MERN+apps+%E2%9C%A8;Turning+messy+data+into+insights+%F0%9F%93%8A;Creating,+learning,+and+blooming+%F0%9F%8C%B7" alt="Animated introduction" />
   </a>
 </p>
 
