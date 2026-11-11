@@ -20,7 +20,7 @@
 
 <p align="center">୨୧ ─────────── 🌸 ─────────── ୨୧</p>
 
-## 🎀 About Me
+##  About Me
 
 ```js
 const sahiba = {
